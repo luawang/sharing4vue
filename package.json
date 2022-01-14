@@ -1,0 +1,8 @@
+{
+  "name": "sharing4vue",
+  "version": "0.0.1",
+  "description": "Social media sharing for Vue.",
+  "main": "index.js",
+  "author": "luawang",
+  "license": "MIT"
+}
